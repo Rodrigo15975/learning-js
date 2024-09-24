@@ -1,0 +1,42 @@
+// Módulos (EXPORTACION E IMPORTACIÓN)
+
+// DESTRUCTURACION
+
+// PROMISES  (ASINCRONIA)
+// THEN
+
+// CONST
+
+// Local Storage y Session Storage: Almacenamiento de datos en el navegador.
+// COOKIES
+
+// TIPOS DE VARIABLES
+// TIPOS DE DATOS
+
+// FUNCIONES FLECHA
+//  FUNCIONES NORMALEZ
+
+// SCOPED DE LET Y CONST
+
+// CLASES
+// POO ------> PROGRAMACION ORIENTA A OBJETOS (POO)
+// BUCLES
+// FOR OF FOREACH FOR IN
+
+// CONDICIONALES
+// Objetos y Arrays
+// Operadores
+// MANEJOS DE ERRORS TRY CATCH
+// OBJECTS
+
+// DOM -----> document object model
+
+// METODOS DE ARRAYS
+// MAP
+// FILTER
+// REDUCE
+// FOREACH
+// FIND
+// SOME
+// EVERY
+// SORT
